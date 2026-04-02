@@ -1,8 +1,8 @@
 <h2 align="center">Análise de Tokens:</h2>
 
-<img width="1153" height="691" alt="Open-Tokenizer" src="https://github.com/user-attachments/assets/44d7ff7a-c65d-49e4-abaf-1dd4fe641f32" />
-
 <img width="887" height="597" alt="chatgpt-llm" src="https://github.com/user-attachments/assets/f9644c5b-6fa9-422c-89d5-46517d76f0a9" />
+
+<img width="1153" height="691" alt="Open-Tokenizer" src="https://github.com/user-attachments/assets/44d7ff7a-c65d-49e4-abaf-1dd4fe641f32" />
 
 <h2 align="center">Raciocinio CoT(Chain-of-Thought):</h2>
 

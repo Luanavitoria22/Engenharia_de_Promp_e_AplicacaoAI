@@ -48,7 +48,7 @@ GOODFELLOW, Ian; BENGIO, Yoshua; COURVILLE, Aaron. *Deep Learning*. Cambridge: M
 RUSSELL, Stuart; NORVIG, Peter. *Inteligência Artificial: Uma Abordagem Moderna*. 3. ed. Rio de Janeiro: Elsevier, 2013.
 
 
-Passo 3: Analise Critica
+# Passo 3: Analise Critica
 
 A segunda resposta foi mais util, pois é mais direta e objetiva com o uso de uma única analogia (esportes) tornando a explicação mais focada e fácil de entender. A estrutura reduziu a ambiguidade evitando excesso de informações desnecessarias.
 
